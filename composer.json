@@ -20,7 +20,7 @@
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/drupal-scaffold": "^2.5",
         "drupal/admin_toolbar": "^1.24",
-        "drupal/advagg": "^3.5",
+        "drupal/advagg": "^4.0",
         "drupal/audiofield": "^1.6",
         "drupal/cloudflare": "^1.0@alpha",
         "drupal/console": "^1.0.2",
