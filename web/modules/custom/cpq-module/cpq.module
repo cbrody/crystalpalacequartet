@@ -3,6 +3,6 @@ function cpq_mail_alter(&$message) {
   // only alter contact forms
    if (!empty($message['id']) && $message['id'] == 'contact_page_mail') {
      $ip = \Drupal::request()->getClientIp();
-     $message['subject'] = "Booking enquiry from " . $ip;
+     $message['subject'] = "Booking enquiry from IP:" . $ip;
    }
  }
