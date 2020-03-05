@@ -25,3 +25,6 @@
 
 # Ignore stats
 /stats/
+
+# Ignore Mac files
+.DS_store
