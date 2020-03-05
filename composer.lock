@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "92a549210d5dbda25a7bd9edf653901f",
+    "content-hash": "b10fd55c6f9752c2e573522a30def27a",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2312,7 +2312,7 @@
                 "Drupal"
             ],
             "support": {
-                "source": "http://cgit.drupalcode.org/cloudflare"
+                "source": "https://git.drupalcode.org/project/cloudflare"
             }
         },
         {
@@ -3382,7 +3382,7 @@
             "description": "Provide access control to REST resources using an IP whitelist / blacklist.",
             "homepage": "https://www.drupal.org/project/ip_consumer_auth",
             "support": {
-                "source": "http://cgit.drupalcode.org/ip_consumer_auth"
+                "source": "https://git.drupalcode.org/project/ip_consumer_auth"
             },
             "time": "2016-10-17T04:34:44+00:00"
         },
@@ -3642,7 +3642,7 @@
             "description": "Allows form elements to be prepopulated from the URL.",
             "homepage": "https://www.drupal.org/project/prepopulate",
             "support": {
-                "source": "http://cgit.drupalcode.org/prepopulate"
+                "source": "https://git.drupalcode.org/project/prepopulate"
             }
         },
         {
@@ -3767,17 +3767,17 @@
         },
         {
             "name": "drupal/smtp",
-            "version": "1.0.0-beta6",
+            "version": "1.0.0-beta7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/smtp.git",
-                "reference": "8.x-1.0-beta6"
+                "reference": "8.x-1.0-beta7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/smtp-8.x-1.0-beta6.zip",
-                "reference": "8.x-1.0-beta6",
-                "shasum": "f793114fb24964a1936e7cf797f91330a0a55b99"
+                "url": "https://ftp.drupal.org/files/projects/smtp-8.x-1.0-beta7.zip",
+                "reference": "8.x-1.0-beta7",
+                "shasum": "d3936f9ca2b52b2a8782c14855b4f26bd6bef69f"
             },
             "require": {
                 "drupal/core": "~8.0"
@@ -3788,8 +3788,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "8.x-1.0-beta6",
-                    "datestamp": "1571689090",
+                    "version": "8.x-1.0-beta7",
+                    "datestamp": "1582198326",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
@@ -3877,7 +3877,7 @@
             "description": "The module provides a block that display links (icons) to your profiles on various social networking sites.",
             "homepage": "https://www.drupal.org/project/social_media_links",
             "support": {
-                "source": "http://cgit.drupalcode.org/social_media_links",
+                "source": "https://git.drupalcode.org/project/social_media_links",
                 "issues": "https://www.drupal.org/project/issues/social_media_links"
             }
         },
@@ -3913,7 +3913,8 @@
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
                     }
-                }
+                },
+                "patches_applied": []
             },
             "notification-url": "https://packages.drupal.org/8/downloads",
             "license": [
@@ -3936,7 +3937,7 @@
             "description": "Swiftmailer",
             "homepage": "https://www.drupal.org/project/swiftmailer",
             "support": {
-                "source": "http://cgit.drupalcode.org/swiftmailer"
+                "source": "https://git.drupalcode.org/project/swiftmailer"
             }
         },
         {
