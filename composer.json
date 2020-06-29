@@ -23,7 +23,6 @@
         "drupal/advagg": "^4.0",
         "drupal/audiofield": "^1.6",
         "drupal/bootstrap": "^3.21",
-        "drupal/cloudflare": "^1.0@alpha",
         "drupal/console": "^1.0.2",
         "drupal/core-recommended": "^8.8",
         "drupal/ctools": "^3.0",
@@ -52,7 +51,6 @@
         "webmozart/path-util": "^2.3"
     },
     "require-dev": {
-        "webflo/drupal-core-require-dev": "^8.6.0"
     },
     "conflict": {
         "drupal/drupal": "*"
