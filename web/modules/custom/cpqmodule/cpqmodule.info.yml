@@ -1,6 +1,6 @@
 name: 'CPQ module'
 description: 'Features for CPQ site'
 type: module
-core: 8.x
 version: 0.2-dev
 package: Other
+core_version_requirement: ^8 || ^9
