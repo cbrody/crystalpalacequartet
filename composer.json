@@ -63,8 +63,7 @@
             "drupal/console-extend-plugin": true,
             "cweagans/composer-patches": true,
             "drupal/core-composer-scaffold": true,
-            "drupal/core-project-message": true,
-            "plesk/composer-command-info": true
+            "drupal/core-project-message": true
         },       
         "platform-check": false
     },
